@@ -3,7 +3,7 @@ package gosdk
 import (
 	"context"
 
-	"github.com/Skarlso/furnace-proto/proto"
+	"github.com/go-furnace/proto/proto"
 	"github.com/hashicorp/go-plugin"
 	"google.golang.org/grpc"
 )
